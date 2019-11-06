@@ -1,0 +1,7 @@
+(fp_lib_table
+  (lib (name sdsocket)(type KiCad)(uri ${KIPRJMOD}/footprints/sdsocket.pretty)(options "")(descr ""))
+  (lib (name USB-MICRO-MK5P-2)(type KiCad)(uri ${KIPRJMOD}/footprints/USB-MICRO-MK5P-2.pretty)(options "")(descr ""))
+  (lib (name wson8-8x6mm)(type KiCad)(uri ${KIPRJMOD}/footprints/wson8-8x6mm.pretty)(options "")(descr ""))
+  (lib (name esp32-wrover)(type KiCad)(uri /usr/local/share/kicad/esp32-wrover-kicad/esp32-wrover.pretty)(options "")(descr ""))
+  (lib (name fpc)(type KiCad)(uri ${KIPRJMOD}/footprints/fpc.pretty)(options "")(descr ""))
+)

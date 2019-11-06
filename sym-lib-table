@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name esp32-wrover)(type Legacy)(uri /usr/local/share/kicad/esp32-wrover-kicad/esp32-wrover.lib)(options "")(descr ""))
+  (lib (name ch340e)(type Legacy)(uri ${KIPRJMOD}/symbols/ch340e.lib)(options "")(descr ""))
+)
